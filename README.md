@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Femi Crown | AI & Data Analyst  
+# 👋 Hi, I'm Femi Adeola | AI & Data Analyst  
 
-🚀 Passionate about leveraging AI and data analytics to drive insights and innovation. With a strong background in **machine learning, predictive analytics, and data visualization**, I work with **Python, R, SQL, and Power BI** to solve complex problems and create data-driven solutions.  
+🚀 Passionate about leveraging AI and data analytics to drive insights and innovation. With a background in **machine learning, predictive analytics, and data visualization**, I work with **Python, R, SQL, and Power BI** to solve complex problems and create data-driven solutions.  
 
 ---
 
@@ -16,7 +16,7 @@
 
 - **Programming & Data Analysis:** Python, R, SQL  
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, Predictive Modeling  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI 
 - **Cloud & Big Data:** AWS, Google Cloud, SQL Databases  
 - **Business Intelligence & Analytics:** Data Storytelling, Statistical Analysis  
 
@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects  
 
-🔹 **Educational Data Analysis** - Analyzing graduate programs in Brazil using AI-driven insights.  
+🔹 **Educational Data Analysis** - Analyzing graduate programs using AI-driven insights.  
 🔹 **COVID-19 Data Insights** - Visualizing global trends and predictive analytics.  
 🔹 **Machine Learning Model for Student Performance Prediction** - Predicting academic success using ML techniques.  
 
@@ -34,8 +34,8 @@
 
 ## 📫 Let's Connect  
 
-🌐 **Portfolio:** [femicrownx.datascienceportfol.io](#)  
+🌐 **Portfolio:** [https://www.datascienceportfol.io/femicrownx](#)  
 💼 **LinkedIn:** [linkedin.com/in/femicrownx](#)  
-📧 **Email:** [your-email@example.com](#)  
+📧 **Email:** [femi.ict@gmail.com](#)  
 
-🚀 Always open to collaborations, research, and AI-driven projects!  
+🚀 Always open to collaborations, research, and Data-driven projects!  
