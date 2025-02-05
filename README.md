@@ -6,7 +6,7 @@
 
 ## 🔍 About Me  
 
-🎓 **Master’s Student in Computer Engineering** at **Federal University of Rio Grande, Brazil**  
+🎓 **Master’s Student in Computer Engineering** at **FURG**  
 📊 Specializing in **AI, Data Science, Machine Learning, and Predictive Analytics**  
 📡 Currently expanding my knowledge in **Cloud Solutions (AWS), AI Algorithms, and Statistical Modeling through coursework and practical applications.**  
 
