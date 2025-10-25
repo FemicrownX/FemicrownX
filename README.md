@@ -1,54 +1,58 @@
-# 👋 Hi, I'm Femi Adeola — Data, AI & Trustworthy Tech Enthusiast  
+# 👋 Hi, I'm Femi Adeola — AI & Trustworthy Tech Enthusiast  
 
 🚀 I’m a Master’s student and aspiring researcher blending **Data Science, Machine Learning, and Responsible AI** to solve real-world problems.  
-🔍 I build intelligent, explainable systems using **Python, R, Power BI, and LLM technologies** — with a focus on **RAG (Retrieval-Augmented Generation)** and **Trustworthy AI**.  
+🔍 I build intelligent, explainable systems using **Python, Power BI, and LLM technologies** — with a focus on **Retrieval-Augmented Generation (RAG)** and **Trustworthy AI** for decision-support in education.  
 
 ---
 
 ## 🧠 About Me  
 
-🎓 **Master’s Student in Computer Engineering** at [FURG - Brazil](https://www.furg.br)  
-🔬 Research Focus: **LLMs, RAG pipelines (Mixtral), and Explainable AI (XAI)**  
-📊 Passionate about **Data Analytics, Visualization, and Machine Learning**  
-🌍 International background with experience in both **academic research and industry analytics**  
+🎓 **Master’s Student in Computer Engineering** at [Federal University of Rio Grande (FURG), Brazil](https://www.furg.br)  
+🔬 Research Focus: Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines — currently applying Gemini and Mixtral models.
+📊 Passionate about **Data Analytics, Visualization, and Applied Machine Learning**  
+🌍 International background with experience in both **academic research** and **industry analytics**
 
-Currently learning:
+### Currently Learning
 - 📚 Trustworthy & Responsible AI (Fairness, Explainability, Bias Mitigation)  
 - ☁️ Cloud & AI Deployment with AWS  
-- 📖 Advanced RAG systems using **LlamaIndex + Mixtral**  
-- 📈 Visual storytelling with Power BI  
+- 🧩 Advanced RAG systems using **LlamaIndex + Mixtral**  
+- 📈 Visual storytelling and dashboards with Power BI  
 
 ---
 
 ## 🛠️ Technical Toolbox  
 
-**Languages & Tools:**  
-- Python, R, SQL  
-- Jupyter Notebook, RStudio, VS Code  
-- Power BI, Excel  
-- Git, GitHub  
+**Primary Skills:**  
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
+- Power BI for data visualization  
+- Jupyter Notebook, VS Code  
+- Git & GitHub for version control  
 
-**Data & AI Focus:**  
-- Predictive Modeling, Statistical Analysis  
-- Machine Learning (Scikit-learn, XGBoost)  
-- Data Cleaning, Wrangling, and Storytelling  
-- RAG Systems (LlamaIndex, ChromaDB, Mixtral)  
-- Cloud (AWS basics), APIs, JSON  
+**Familiar / Learning:**  
+- R (Data visualization with ggplot2)  
+- SQL (Basic querying and data management)  
+
+**AI & Data Focus:**  
+- Predictive Modeling & Statistical Analysis  
+- Retrieval-Augmented Generation (LlamaIndex, ChromaDB, Mixtral)  
+- Embeddings & NLP  
+- Explainable AI (SHAP, LIME)  
+- Data Cleaning & Governance  
 
 ---
 
-## 📌 Featured Projects  
+## 📘 Research & Projects  
 
-🔹 **🎓 Graduate Programs Analysis (RAG + Mixtral)**  
- > AI-powered insights into Brazil’s graduate programs using retrieval-based techniques.
+🔹 **🎓 Graduate Programs Evaluation with RAG + Mixtral**  
+> AI-powered analysis of Brazil’s graduate programs using Retrieval-Augmented Generation for decision-support and performance prediction.
 
 🔹 **📊 COVID-19 Global Dashboard**  
- > Visual analytics on worldwide pandemic trends with Power BI and R.
+> Interactive Power BI and R dashboards visualizing pandemic impacts by continent and country.
 
 🔹 **📈 ML Model for Student Performance Prediction**  
- > A supervised learning model to anticipate student academic outcomes.
+> A supervised learning model to predict student outcomes based on historical data using Python and Scikit-learn.
 
-👀 *More projects in my [Repositories](https://github.com/femicrownx?tab=repositories)*  
+👀 *Explore more in my [Repositories](https://github.com/femicrownx?tab=repositories)*  
 
 ---
 
@@ -58,8 +62,8 @@ Currently learning:
 🔗 LinkedIn: [linkedin.com/in/femicrownx](https://linkedin.com/in/femicrownx)  
 🌍 Portfolio: [datascienceportfol.io/femicrownx](https://www.datascienceportfol.io/femicrownx)  
 
-💡 Always open to collaborations on AI, research, and data-driven innovation.  
-✨ Let’s build a more **intelligent, ethical, and impactful future with AI**.
+💡 Open to collaborations on **AI research**, **data-driven innovation**, and **trustworthy technology**.  
+✨ Let’s build a more **ethical, transparent, and impactful future with AI**.  
 
 ---
 
