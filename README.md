@@ -9,7 +9,7 @@
 ## 🧠 About Me  
 
 🎓 **Master’s Student in Computer Engineering** at [Federal University of Rio Grande (FURG), Brazil](https://www.furg.br)  
-🔬 **Research Focus:** Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines
+🔬 **Research Focus:** Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines  
 📊 Passionate about **Data Analytics, Visualization, and Applied Machine Learning**  
 🌍 International background with experience in both **academic research** and **industry analytics**  
 
