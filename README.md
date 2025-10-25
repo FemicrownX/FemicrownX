@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Femi Adeola — AI & Trustworthy Tech Enthusiast  
 
-🚀 I’m a Master’s student and aspiring researcher blending **Data Science, Machine Learning, and Responsible AI** to solve real-world problems.  
+🚀 I’m a Master’s researcher exploring **Trustworthy AI, Machine Learning, and Retrieval-Augmented Generation (RAG) systems** for trustworthy decision-support.
 🔍 I build intelligent, explainable systems using **Python, Power BI, and LLM technologies** — with a focus on **Retrieval-Augmented Generation (RAG)** and **Trustworthy AI** for decision-support in education.  
 
 ---
