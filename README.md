@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Femi Adeola — AI & Trustworthy Tech Enthusiast  
 
-🚀 I’m a Master’s researcher exploring **Trustworthy AI, Machine Learning, and Retrieval-Augmented Generation (RAG) systems** for trustworthy decision-support.
+🚀 I’m a Master’s researcher exploring **Trustworthy AI, Machine Learning, and Retrieval-Augmented Generation (RAG) systems** for trustworthy decision-support.  
+
 🔍 I build intelligent, explainable systems using **Python, Power BI, and LLM technologies** — with a focus on **Retrieval-Augmented Generation (RAG)** and **Trustworthy AI** for decision-support in education.  
 
 ---
@@ -8,11 +9,11 @@
 ## 🧠 About Me  
 
 🎓 **Master’s Student in Computer Engineering** at [Federal University of Rio Grande (FURG), Brazil](https://www.furg.br)  
-🔬 Research Focus: Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines — currently applying Gemini and Mixtral models.
+🔬 **Research Focus:** Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines — currently applying Gemini and Mixtral models.  
 📊 Passionate about **Data Analytics, Visualization, and Applied Machine Learning**  
-🌍 International background with experience in both **academic research** and **industry analytics**
+🌍 International background with experience in both **academic research** and **industry analytics**  
 
-### Currently Learning
+### Currently Learning  
 - 📚 Trustworthy & Responsible AI (Fairness, Explainability, Bias Mitigation)  
 - ☁️ Cloud & AI Deployment with AWS  
 - 🧩 Advanced RAG systems using **LlamaIndex + Mixtral**  
@@ -28,7 +29,7 @@
 - Jupyter Notebook, VS Code  
 - Git & GitHub for version control  
 
-**Familiar / Learning:**  
+**Familiar:**  
 - R (Data visualization with ggplot2)  
 - SQL (Basic querying and data management)  
 
@@ -44,13 +45,13 @@
 ## 📘 Research & Projects  
 
 🔹 **🎓 Graduate Programs Evaluation with RAG + Mixtral**  
-> AI-powered analysis of Brazil’s graduate programs using Retrieval-Augmented Generation for decision-support and performance prediction.
+> AI-powered analysis of Brazil’s graduate programs using Retrieval-Augmented Generation for decision-support and performance prediction.  
 
 🔹 **📊 COVID-19 Global Dashboard**  
-> Interactive Power BI and R dashboards visualizing pandemic impacts by continent and country.
+> Interactive Power BI and R dashboards visualizing pandemic impacts by continent and country.  
 
 🔹 **📈 ML Model for Student Performance Prediction**  
-> A supervised learning model to predict student outcomes based on historical data using Python and Scikit-learn.
+> A supervised learning model to predict student outcomes based on historical data using Python and Scikit-learn.  
 
 👀 *Explore more in my [Repositories](https://github.com/femicrownx?tab=repositories)*  
 
