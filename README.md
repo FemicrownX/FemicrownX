@@ -61,7 +61,7 @@
 
 📬 Email: [femi.ict@gmail.com](mailto:femi.ict@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/femicrownx](https://linkedin.com/in/femicrownx)  
-🌍 Portfolio: [datascienceportfol.io/femicrownx](https://www.datascienceportfol.io/femicrownx)
+🌍 Portfolio: [datascienceportfol.io/femicrownx](https://www.datascienceportfol.io/femicrownx)  
 📄 Google Scholar: [scholar.google.com/citations?user=0u8292MAAAAJ](https://scholar.google.com/citations?user=0u8292MAAAAJ)
 
 💡 Open to collaborations on **AI research**, **data-driven innovation**, and **trustworthy technology**.  
