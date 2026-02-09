@@ -24,30 +24,27 @@ Methodological expertise includes constructing vector-based knowledge bases (FAI
 
 ### 📚 Current Research (M.Sc. Thesis)
 **Reconciling Interpretability and Accuracy in RAG Systems for Educational Program Evaluation.**
-* *Context:* Federal University of Rio Grande (FURG), Brazil.
-* *Scope:* Investigating the interplay between vector retrieval density and generation quality.
-* *Goal:* Developing a framework to reduce hallucinations in automated academic assessments using CAPES datasets.
+* **Institution:** Federal University of Rio Grande (FURG), Brazil.
+* **Research Focus:** Investigating the interplay between vector retrieval density and generation quality.
+* **Objective:** Developing a framework to reduce hallucinations in automated academic assessments using CAPES datasets.
 
 ---
 
 ### 📂 Selected Projects (Code & Case Studies)
 
 🔹 **[Educational RAG Evaluation System](https://github.com/FemicrownX/trustworthy-rag-educational-eval)**
-> *CV Match: "Graduate Researcher (Applied AI)"*
 > A RAG architecture using LangChain and FAISS to evaluate Brazilian graduate programs, focusing on hallucination reduction and retrieval accuracy.
 
 🔹 **[Insurance RAG Prototype](https://github.com/FemicrownX/insurance-rag-prototype)**
-> *CV Match: "AI in Finance"*
 > A case study on embedding alignment for legally compliant retrieval in high-stakes financial claims processing.
 
 🔹 **[Public Health Data Visualization](https://github.com/FemicrownX/public-health-visualization-R)**
-> *CV Match: "COVID-19 Global Infection Tracking"*
 > Comparative visualizations of global pandemic trends using R (ggplot2) to communicate complex health data to non-technical stakeholders.
 
 ---
 
 ### 🌐 Contact & Networks
 
-[📧 Email](mailto:femi@furg.br) | [🔗 LinkedIn](https://linkedin.com/in/femicrownx) | [📄 Google Scholar](https://scholar.google.com/citations?user=0u8292MAAAAJ)
+[📄 Download CV](./Femi_Samuel_Adeola_CV.pdf) | [📧 Email](mailto:femi@furg.br) | [🔗 LinkedIn](https://linkedin.com/in/femicrownx) | [📄 Google Scholar](https://scholar.google.com/citations?user=0u8292MAAAAJ)
 
 > *"Transforming black box predictions into transparent, human-verifiable insights."*
