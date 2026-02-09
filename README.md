@@ -1,72 +1,53 @@
-# 👋 Hi, I'm Femi Adeola — AI & Trustworthy Tech Enthusiast  
+# Applied AI Researcher | Trustworthy AI & RAG Systems
 
-🚀 I’m a Master’s researcher exploring **Trustworthy AI, Machine Learning, and Retrieval-Augmented Generation (RAG) systems** for trustworthy decision-support.  
+**Applied AI Researcher** addressing the fundamental tension between interpretability and accuracy in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures. Specializing in the design of domain-specific AI systems that mitigate hallucination and algorithmic bias in high-stakes educational environments.
 
-🔍 I build intelligent, explainable systems using **Python, Power BI, and LLM technologies** — with a focus on **Retrieval-Augmented Generation (RAG)** and **Trustworthy AI** for decision-support in education.  
-
----
-
-## 🧠 About Me  
-
-🎓 **Master’s Student in Computer Engineering** at [Federal University of Rio Grande (FURG), Brazil](https://www.furg.br)  
-🔬 **Research Focus:** Trustworthy AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) pipelines  
-📊 Passionate about **Data Analytics, Visualization, and Applied Machine Learning**  
-🌍 International background with experience in both **academic research** and **industry analytics**  
-
-### Currently Learning  
-- 📚 Trustworthy & Responsible AI (Fairness, Explainability, Bias Mitigation)  
-- ☁️ Cloud & AI Deployment with AWS  
-- 🧩 Advanced RAG systems using **LlamaIndex + Mixtral**  
-- 📈 Visual storytelling and dashboards with Power BI  
+Methodological expertise includes constructing vector-based knowledge bases (FAISS), implementing fairness-aware evaluation metrics, and transforming black-box model predictions into transparent, human-verifiable insights for institutional policy decision-making.
 
 ---
 
-## 🛠️ Technical Toolbox  
-
-**Primary Skills:**  
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
-- Power BI for data visualization  
-- Jupyter Notebook, VS Code  
-- Git & GitHub for version control  
-
-**Familiar:**  
-- R (Data visualization with ggplot2)  
-- SQL (Basic querying and data management)  
-
-**AI & Data Focus:**  
-- Predictive Modeling & Statistical Analysis  
-- Retrieval-Augmented Generation (LlamaIndex, ChromaDB, Mixtral)  
-- Embeddings & NLP  
-- Explainable AI (SHAP, LIME)  
-- Data Cleaning & Governance  
+### 🔬 Research Interests
+* **Trustworthy & Responsible AI:** Algorithmic fairness, bias mitigation, and safety in decision-support systems.
+* **Generative AI:** Retrieval-Augmented Generation (RAG), LLM fine-tuning, and hallucination reduction.
+* **Explainable AI (XAI):** Interpretability–accuracy trade-offs and model transparency.
+* **AI in Education:** Educational Data Mining (EDM) and automated program evaluation.
 
 ---
 
-## 📘 Research & Projects  
-
-🔹 **🎓 Graduate Programs Evaluation with RAG + Mixtral**  
-> AI-powered analysis of Brazil’s graduate programs using Retrieval-Augmented Generation for decision-support and performance prediction.  
-
-🔹 **📊 COVID-19 Global Dashboard**  
-> Interactive Power BI and R dashboards visualizing pandemic impacts by continent and country.  
-
-🔹 **📈 ML Model for Student Performance Prediction**  
-> A supervised learning model to predict student outcomes based on historical data using Python and Scikit-learn.  
-
-👀 *Explore more in my [Repositories](https://github.com/femicrownx?tab=repositories)*  
+### 🛠️ Technical Stack
+* **AI & ML Frameworks:** LangChain, LlamaIndex, Scikit-Learn, TensorFlow (Basics).
+* **Vector Databases & Search:** FAISS, ChromaDB, Embeddings generation.
+* **Data Science & Analytics:** Python (Pandas, NumPy), R (ggplot2), SQL, Power BI.
+* **Cloud & Tools:** Docker, Google Cloud Platform (GCP), Git/GitHub, Jupyter.
 
 ---
 
-## 🌐 Let's Connect  
-
-📬 Email: [femi.ict@gmail.com](mailto:femi.ict@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/femicrownx](https://linkedin.com/in/femicrownx)  
-🌍 Portfolio: [datascienceportfol.io/femicrownx](https://www.datascienceportfol.io/femicrownx)  
-📄 Google Scholar: [scholar.google.com/citations?user=0u8292MAAAAJ](https://scholar.google.com/citations?user=0u8292MAAAAJ)
-
-💡 Open to collaborations on **AI research**, **data-driven innovation**, and **trustworthy technology**.  
-✨ Let’s build a more **ethical, transparent, and impactful future with AI**.  
+### 📚 Current Research (M.Sc. Thesis)
+**Reconciling Interpretability and Accuracy in RAG Systems for Educational Program Evaluation.**
+* *Context:* Federal University of Rio Grande (FURG), Brazil.
+* *Scope:* Investigating the interplay between vector retrieval density and generation quality.
+* *Goal:* Developing a framework to reduce hallucinations in automated academic assessments using CAPES datasets.
 
 ---
 
-> 👑 **FemicrownX** – Building tech that matters, responsibly.
+### 📂 Selected Projects (Code & Case Studies)
+
+🔹 **[Educational RAG Evaluation System](https://github.com/FemicrownX/trustworthy-rag-educational-eval)**
+> *CV Match: "Graduate Researcher (Applied AI)"*
+> A RAG architecture using LangChain and FAISS to evaluate Brazilian graduate programs, focusing on hallucination reduction and retrieval accuracy.
+
+🔹 **[Insurance RAG Prototype](https://github.com/FemicrownX/insurance-rag-prototype)**
+> *CV Match: "AI in Finance"*
+> A case study on embedding alignment for legally compliant retrieval in high-stakes financial claims processing.
+
+🔹 **[Public Health Data Visualization](https://github.com/FemicrownX/public-health-visualization-R)**
+> *CV Match: "COVID-19 Global Infection Tracking"*
+> Comparative visualizations of global pandemic trends using R (ggplot2) to communicate complex health data to non-technical stakeholders.
+
+---
+
+### 🌐 Contact & Networks
+
+[📧 Email](mailto:femi@furg.br) | [🔗 LinkedIn](https://linkedin.com/in/femicrownx) | [📄 Google Scholar](https://scholar.google.com/citations?user=0u8292MAAAAJ)
+
+> *"Transforming black box predictions into transparent, human-verifiable insights."*
